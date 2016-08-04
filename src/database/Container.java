@@ -10,6 +10,7 @@ public class Container implements Serializable{
 	public Container(){
 		//Create Array
 		cords = new ArrayList<Coordinate>();
+
 	}
 	
 	
